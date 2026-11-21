@@ -1,7 +1,7 @@
 # Lista de mercado
 
 ## Granos
-- 3 libras de arroz
+- 2 libras de arroz
 - 1 libra de fríjol
 
 ## Aseo
